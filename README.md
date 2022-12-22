@@ -6,18 +6,18 @@ There are 3 levels, each with multiple enemy classes. Higher class enemies are s
 
 High scores are saved & will persist after closing and relaunching the game, they can be reset through the Main Menu screen.
 
-## Game Modes:
-# Freeplay Mode
+# Game Modes:
+## Freeplay Mode
 Play through the 3 levels with no restrictions.
 
 You will be scored by how long it takes you to complete all 3 levels.
 
-# Accuracy Mode
+## Accuracy Mode
 There are 81 targets across the 3 levels, in this mode you be limited to 85 shots.
 
 You will be scored by how many points you have when you run out of ammo (or clear all 3 levels).
 
-# Countdown Mode
+## Countdown Mode
 In this mode you have 45 seconds to clear all 3 stages.
 
 You will be scored on how many points you have when you run out of time (or clear all 3 levels).
