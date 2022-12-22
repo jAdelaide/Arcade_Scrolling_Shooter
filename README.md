@@ -6,7 +6,7 @@ There are 3 levels, each with multiple enemy classes. Higher class enemies are s
 
 High scores are saved & will persist after closing and relaunching the game, they can be reset through the Main Menu screen.
 
-### View each level & screen in the Screenshots folder
+### !!View each level & screen in the Screenshots folder!!
 
 # Game Modes:
 ## Freeplay Mode
