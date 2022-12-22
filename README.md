@@ -6,13 +6,13 @@ There are 3 levels, each with multiple enemy classes. Higher class enemies are s
 
 High scores are saved & will persist after closing and relaunching the game, they can be reset through the Main Menu screen.
 
+### View each level & screen in the Screenshots folder
+
 # Game Modes:
 ## Freeplay Mode
 Play through the 3 levels with no restrictions.
 
 You will be scored by how long it takes you to complete all 3 levels.
-
-### View each level & screen in the Screenshots folder
 
 ## Accuracy Mode
 There are 81 targets across the 3 levels, in this mode you be limited to 85 shots.
