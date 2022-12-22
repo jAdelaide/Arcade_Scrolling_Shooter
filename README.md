@@ -1,12 +1,11 @@
 # Arcade Scrolling Shooter
+### View each level & game screen in the Screenshots folder!
 
 This is an arcade style shooter with rows of enemies that scroll across the screen, made with PyGame following [LeMaster Tech's tutorial](https://www.youtube.com/watch?v=3Oc9ZqzPnSc).
 
 There are 3 levels, each with multiple enemy classes. Higher class enemies are smaller on the screen and move faster, you receive varying points for each enemy you shoot depending on its class and each level has an increase in enemy numbers.
 
 High scores are saved & will persist after closing and relaunching the game, they can be reset through the Main Menu screen.
-
-### !!View each level & screen in the Screenshots folder!!
 
 # Game Modes:
 ## Freeplay Mode
